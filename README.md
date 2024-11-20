@@ -18,41 +18,5 @@ The latest version is v1 for the tool right now.
 # Contributions
 *This should work on Windows, Linux, and MacOS*
 
-[*Need help?*](https://github.com/firstcontributions/first-contributions)
-
-First, install git. For Linux/MacOS users:
-```bash
-sudo apt install git
-```
-
-Windows, Linux, and MacOS users:
-
-Open [this](https://git-scm.com/downloads) page and then click on one of the download pages & install it.
-
-Then, fork the repository from [GitHub](https://github.com). Then open the forked repo that you have made and click <img src="https://raw.githubusercontent.com/Infinite0Void/mcCleanupWizard/refs/heads/main/images/githubcodebutton.png"></img> and copy the HTTPS URL that was provided. Then open a terminal and type this:
-```bash
-git clone "copied-url"
-```
-Or copy the SSH link (this still works):
-```bash
-git clone git@github.com:username/mcCleanupWizard.git
-```
-HTTPS URL (1st command): Replace *"copied-url"* with the URL you copied. **also make sure to remove the " on both sides**
-
-SSH URL (2nd command): Replace *"username"* with your username and replace *"mcCleanupWizard" (excluding the .git part)* with the repo name (if changed).
-
-Now change the directory to the cloned fork of the repo:
-```bash
-cd mcCleanupWizard
-```
-Again, replace *mcCleanupWizard* with your repo name if changed before you cloned it. Now, create a branch:
-```bash
-git switch -c branch-name
-```
-
-Replace *branch-name* with **anything you want**. For example:
-```bash
-git switch -c add_extra_executables
-```
-
-*not finished*
+[Click here to start contributing](https://github.com/firstcontributions/first-contributions)
+*Don't clone that repo, clone this one and fork this one. Change the URL to this one as well.*
