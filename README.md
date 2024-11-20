@@ -14,6 +14,15 @@ The latest version is v1 for the tool right now.
 
 "I got a error when opening the executable.": If you get a error like "Could not open cmd.exe /c cw.bat", the executable may be corrupted. Please verify the file to make sure, or ensure Command Prompt *CMD* is installed on your system.
 
+"How do you compile it into a EXE file?": Use IExpress. There are many videos on how to use it. To open, press Windows & R and type this (for 64 bit):
+```
+%windir%\system32\iexpress.exe
+```
+32 bit system:
+```
+%windir%\SysWow64\iexpress.exe
+```
+
 "Is it open source?": Yes, it is open source.
 
 "Can I contribute?": Yes, you can. Go to the contributes label under this text and follow the instructions there and mine under the text [Click here to start contributing](). *<-- that link takes you nowhere*
