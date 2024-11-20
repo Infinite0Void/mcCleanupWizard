@@ -14,6 +14,10 @@ The latest version is v1 for the tool right now.
 
 "I got a error when opening the executable.": If you get a error like "Could not open cmd.exe /c cw.bat", the executable may be corrupted. Please verify the file to make sure, or ensure Command Prompt *CMD* is installed on your system.
 
+"Is it open source?": Yes, it is open source.
+
+"Can I contribute?": Yes, you can. Go to the contributes label under this text and follow the instructions there and mine under the text [Click here to start contributing](). *<-- that link takes you nowhere*
+
 
 # Contributions
 *This should work on Windows, Linux, and MacOS*
