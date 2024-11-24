@@ -1,5 +1,6 @@
 # Contributions
-(bold = required)
+*(bold = required)*
+
 Please use:
 ```markdown
 - Hello, I am [username](https://github.com/username).
