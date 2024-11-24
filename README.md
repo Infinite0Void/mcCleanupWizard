@@ -25,7 +25,7 @@ The latest version is v1 for the tool right now.
 
 "Is it open source?": Yes, it is open source.
 
-"Can I contribute?": Yes, you can. Go to the contributes label under this text and follow the instructions there and mine under the text [Click here to start contributing](). *<-- that link takes you nowhere*
+"Can I contribute?": Yes, you can. Go to the contributes label under this text and follow the instructions there and mine under the text [Click here to start contributing](https://github.com/firstcontributions/first-contributions).
 
 
 # Contributions
