@@ -12,7 +12,7 @@ The latest version is v1 for the tool right now.
 
 "Can I verify the file is correct using hashes?": Yes, you can. The MD5 for the batch file is: *4081c3a08ef290c4731fcc921eaf1efc* & the MD5 for the executable is *5387ce0ff33a225c56a826844a5e89a5*.
 
-"I got a error when opening the executable.": If you get a error like "Could not open cmd.exe /c cw.bat", the executable may be corrupted. Please verify the file to make sure, or ensure Command Prompt *CMD* is installed on your system.
+"I got a error when opening the executable.": If you get a error like "Could not open cmd.exe /c cw.bat", the executable may be corrupted. Please verify the file to make sure, or ensure Command Prompt *(CMD)* is installed on your system.
 
 "How do you compile it into a EXE file?": Use IExpress. There are many videos on how to use it. To open, press Windows & R and type this (for 64 bit):
 ```
